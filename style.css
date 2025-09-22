@@ -88,18 +88,19 @@
             transition: opacity 1.2s ease-in-out 0.5s;
         }
 
-        .title-container h2 {
+        /* .mensaje h2 {
             font-family: "Henny Penny", system-ui;
             font-weight: 300;
             font-style: normal;
             color: var(--color-titulo);
+            font-size: clamp(1rem, 10vw, 1rem);
             text-align: center;
             text-shadow: 
                 0 0 5px rgba(9, 0, 25, 0.8), /* Brillo blanco interior */
                 0 0 10px var(--color-titulo-neon), /* Brillo de color exterior */
                 0 0 15px var(--color-titulo-neon),
                 2px 2px 5px var(--color-sombra-titulo); /* Sombra oscura para contraste */
-        }
+        } */
 
         /* --- TÍTULO Y PÉTALOS --- */
 
